@@ -23,3 +23,5 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+Link to completed project: http://www.myawesomeblog3.com/
